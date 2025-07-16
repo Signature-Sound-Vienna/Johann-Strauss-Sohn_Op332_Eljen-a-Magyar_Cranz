@@ -25,7 +25,7 @@
                <name xml:id="name-150iof2">Verovio</name>
                <p xml:id="p-1dtdjfa">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ace1oqd" enddate="2025-07-16T14:02:39" startdate="2023-07-19T10:35:44" version="1.2.7">
+            <application xml:id="ace1oqd" enddate="2025-07-16T15:48:56" startdate="2023-07-19T10:35:44" version="1.2.6">
                <name xml:id="nk771hv1">mei-friend</name>
                <p xml:id="pufiw4h">First edit by mei-friend 0.10.0, 10 July 2023.</p>
             </application>
@@ -38,10 +38,11 @@
             <score xml:id="sqg9m7p">
                <scoreDef xml:id="s8f8li0" mm="180" spacing.staff="12vu" optimize="true">
                   <pgHead xml:id="phkhi471" func="first">
-                     <rend xml:id="rul98vn2" halign="center" valign="top" fontsize="200%" fontweight="bold">Éljen a Magyar!</rend>
-                     <rend xml:id="r92o6rk1" halign="center" fontsize="130%">Op. 332</rend>
-                     <rend xml:id="r3utxoc" halign="right" fontsize="150%">Johann Strauss (Sohn)</rend>
+                     <rend xml:id="rul98vn2" halign="center" valign="top" fontsize="300%" fontweight="bold">Éljen a Magyar!</rend>
+                     <rend xml:id="r92o6rk1" halign="center" fontsize="200%">Polka schnell</rend>
+                     <rend xml:id="r3utxoc" halign="right" fontsize="150%">Johann Strauss (Sohn), Op. 332</rend>
                   </pgHead>
+                  <pgFoot xml:id="pwcqk3p1" func="first" />
                   <staffGrp xml:id="s1ad0p51">
                      <staffGrp xml:id="s18fp5xp" bar.thru="true">
                         <grpSym xml:id="g1kcg8t8" symbol="bracket" />
