@@ -25,7 +25,7 @@
                <name xml:id="name-150iof2">Verovio</name>
                <p xml:id="p-1dtdjfa">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ace1oqd" enddate="2025-07-16T13:52:05" startdate="2023-07-19T10:35:44" version="1.2.7">
+            <application xml:id="ace1oqd" enddate="2025-07-16T14:02:39" startdate="2023-07-19T10:35:44" version="1.2.7">
                <name xml:id="nk771hv1">mei-friend</name>
                <p xml:id="pufiw4h">First edit by mei-friend 0.10.0, 10 July 2023.</p>
             </application>
@@ -23764,7 +23764,7 @@
                         <staff xml:id="skbhxxx" n="3">
                            <layer xml:id="l14wpxo6" n="1">
                               <note xml:id="nxoo5vx" dur="4" oct="4" pname="b" stem.dir="down"/>
-                              <note xml:id="nwe0np4" dur="4" oct="4" pname="b" stem.dir="down"/>
+                              <note xml:id="nwe0np4" dur="8" oct="4" pname="b" stem.dir="down"/>
                               <rest xml:id="r2zvpuw1" dur="8"/>
                            </layer>
                         </staff>
