@@ -38,9 +38,12 @@
             <score xml:id="sqg9m7p">
                <scoreDef xml:id="s8f8li0" mm="180" spacing.staff="12vu" optimize="true">
                   <pgHead xml:id="phkhi471" func="first">
-                     <rend xml:id="rul98vn2" halign="center" valign="top" fontsize="300%" fontweight="bold">Éljen a Magyar!</rend>
-                     <rend xml:id="r92o6rk1" halign="center" fontsize="200%">Polka schnell</rend>
-                     <rend xml:id="r3utxoc" halign="right" fontsize="150%">Johann Strauss (Sohn), Op. 332</rend>
+                     <rend xml:id="rp2z3hc" halign="center" fontsize="100%">
+                        <rend xml:id="rul98vn2" fontsize="375%" fontweight="bold">Éljen a Magyar!<lb xml:id="l15wslp8" />
+                        </rend>
+                        <rend xml:id="r92o6rk1" fontsize="175%">Polka schnell</rend>
+                     </rend>
+                     <rend xml:id="r3utxoc" halign="right" valign="bottom" fontsize="150%">Johann Strauss (Sohn), Op. 332</rend>
                   </pgHead>
                   <pgFoot xml:id="pwcqk3p1" func="first" />
                   <staffGrp xml:id="s1ad0p51">
